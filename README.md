@@ -1,4 +1,4 @@
-# Proof of words
+# Proof of terms
 
 A sleek, decentralized dictionary dedicated to demystifying blockchain, Web3, DeFi, NFTs, DAOs, and everything in between.
 
@@ -51,6 +51,7 @@ Whether you're a developer, investor, or curious learner, this is your one-stop 
 
 Made with love and curiosity by [Scrapychain]  
 X: [@scrapychain](https://x.com/scrapychain)
+X: [@proffofterms](https://x.com/proofofterm)
 
 ---
 
